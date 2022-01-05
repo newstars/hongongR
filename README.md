@@ -22,7 +22,7 @@
 
 ---
 
-책에 쓰인 모든 데이터는 [Data](https://github.com/newstars/hongongR/tree/main/Data) 폴더에 있습니다.
+책에 쓰인 모든 데이터는 [Data](https://github.com/newstars/hongongR/blob/main/Data) 폴더에 있습니다.
 
 
 
