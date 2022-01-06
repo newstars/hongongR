@@ -56,7 +56,9 @@ URL : [한빛미디어 - YouTube](https://www.youtube.com/c/HanbitCoKr)
 
 ---
 
-# 
+# [혼자 공부하는 R 데이터 분석](https://hanbit.co.kr/store/books/look.php?p_code=B6779219508) 하단에 있습니다.
+
+#
 
 # 발행
 
