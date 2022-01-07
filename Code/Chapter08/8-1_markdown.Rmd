@@ -1,0 +1,38 @@
+<!--줄 바꿈-->
+줄 바꿈
+줄 바꿈
+
+줄 바꿈  
+줄 바꿈
+
+***
+
+
+<!--강조-->
+*이탤릭체*
+**볼드체**
+
+
+<!--제목-->
+# 제목1
+## 제목2
+### 제목3
+#### 제목4
+##### 제목5
+###### 제목6
+
+
+<!--링크-->
+[링크](https://rmarkdown.rstudio.com/index.html)
+<https://rmarkdown.rstudio.com/index.html>
+![](C:/Rstudy/image.png){width=100px, height=100px}
+
+
+<!--인라인 코드-->
+`인라인 코드`
+
+
+<!--코드 청크-->
+```{r cars}
+summary(cars)
+```
