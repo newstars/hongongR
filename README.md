@@ -60,6 +60,13 @@ URL : [한빛미디어 - YouTube](https://www.youtube.com/c/HanbitCoKr)
 
 #
 
+# 판매처
+---
+[교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245019&orderClick=LEA&Kc=)
+[한빛미디어](https://hanbit.co.kr/store/books/look.php?p_code=B6779219508)
+
+#
+
 # 발행
 
 ---
