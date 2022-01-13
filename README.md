@@ -34,7 +34,7 @@ Chapter 7. 프로젝트로 실력다지기에 쓰인 공공데이터 출처는 �
 
 # 
 
-# Youtube 강의 (업로드 예정)
+# Youtube 강의 (업로드 중)
 
 ---
 
@@ -64,6 +64,8 @@ URL : [한빛미디어 - YouTube](https://www.youtube.com/c/HanbitCoKr)
 ---
 [yes24](http://www.yes24.com/Product/Goods/106175850)
 
+[알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286836733)
+
 [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245019&orderClick=LEA&Kc=)
 
 [한빛미디어](https://hanbit.co.kr/store/books/look.php?p_code=B6779219508)
@@ -75,4 +77,4 @@ URL : [한빛미디어 - YouTube](https://www.youtube.com/c/HanbitCoKr)
 
 ---
 
-- 초판 : 2022. 1. 11
+- 초판 : 2022. 1. 17
