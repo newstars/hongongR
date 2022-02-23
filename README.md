@@ -76,6 +76,8 @@ URL : [한빛미디어 - YouTube](https://www.youtube.com/watch?v=5ZyU0SigwZ8&li
 
 [한빛미디어](https://hanbit.co.kr/store/books/look.php?p_code=B6779219508)
 
+[리디북스](https://ridibooks.com/books/443000995)
+
 
 #
 
